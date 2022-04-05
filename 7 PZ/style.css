@@ -1,0 +1,37 @@
+.main{
+    margin:0 200px;
+}
+    .block{
+        display: inline-block;
+        padding: 10px 0;
+        width: 200px;
+        height: 200px;
+    }
+    .blockName{
+        padding: 10px 0;
+    }
+    .blockSubmit{
+        padding: 10px;
+        /*width: 200px;*/
+    }
+    img{
+        width: 50%;
+        height: 50%;
+
+    }
+
+.prod{
+    display:inline-block;
+
+}
+.prodBody{
+    display: inline-block;
+}
+    .prodImg{
+        width: 50%;
+        height: 50%;
+    }
+    .prodDesc{
+        width: 600px;
+        height: 100px;
+    }
